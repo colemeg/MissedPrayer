@@ -39,7 +39,7 @@ Not on Google Play Store. Download APK directly.
 ## Screenshot
 
 <p align="center">
-  <img src="app.png" width="320" alt="MissedPrayer App Screenshot">
+  <img src="app.jpg" width="320" alt="MissedPrayer App Screenshot">
 </p>
 
 ---
