@@ -12,7 +12,7 @@ This app helps Muslims keep count of their outstanding obligatory prayers and mi
 
 ## Features
 
-- Tracks all 5 daily prayers — Fajr, Dhuhr, Asr, Maghrib, Isha
+- Tracks missed all 5 daily prayers — Fajr, Dhuhr, Asr, Maghrib, Isha
 - Tracks missed fasting (Puasa) separately
 - Progress bar shows remaining vs completed
 - Set any number, then use +1 / −1 to update as you go
