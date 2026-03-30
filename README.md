@@ -1,25 +1,4 @@
-# 🕌 MissedPrayer / Qadha Outstanding — قضاء العبادات
-A simple Android app to track missed (qadha) prayers and Ramadan fasting.
 
----
-
-## About
-This app helps Muslims keep count of their outstanding obligatory prayers and missed Ramadan fasting days. Clean, minimal, and straightforward to use.
-
----
-
-## Features
-- Tracks missed all 5 daily prayers — Fajr, Dhuhr, Asr, Maghrib, Isha
-- Tracks missed Ramadan fasting (Puasa) separately
-- Progress bar shows remaining vs completed
-- Set any number, then use +1 / −1 to update as you go
-- Total missed prayers counter
-- 100% offline — no internet needed
-
----
-
-## Download APK
-Not on Google Play Store. Download APK directly.
 
 **To install:**
 1. Download `MissedPrayer-Qadha.apk`
@@ -39,7 +18,8 @@ Not on Google Play Store. Download APK directly.
 ## Screenshot
 
 <p align="center">
-  <img src="app.jpg" width="320" alt="MissedPrayer App Screenshot">
+  <img src="app_dark.jpg" width="48%" alt="Dark Theme">
+  <img src="app_light.jpg" width="48%" alt="Light Theme">
 </p>
 
 ---
